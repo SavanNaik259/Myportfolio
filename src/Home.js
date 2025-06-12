@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js';
-import img1 from './Images/IMG_20240530_170850.jpg';
+import img1 from './Images/IMG_20250527_080314.png';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
  import './App.css';
