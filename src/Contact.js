@@ -10,7 +10,7 @@ const Contact =()=>{
       <>
   <section className="bg-main bg-color contact-section hero-section text-white  d-flex flex-column justify-content-center align-items-center "> 
   <div className="mx-auto row-width">
-         <h1 className="common-text text-white">book our services / contact us</h1>
+         <h1 className="common-text text-white">book our service / contact us</h1>
            <hr className='w-50 mx-auto text-white'/>
          </div>
          <div>
