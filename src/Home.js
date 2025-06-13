@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js';
-import img1 from './Images/IMG_20250527_080314.png';
+import img122 from './Images/IMG_20250527_080314.png';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'react-lazy-load-image-component/src/effects/blur.css';
  import './App.css';
@@ -42,7 +42,7 @@ const Home =()=>{
 </div>
   <div className='col-12 col-md-12 col-lg-6'>
 <div className='text-center text-lg-end w-100 text-md-center img-padding'>
-<LazyLoadImage effect="blur" src={img1} loading="lazy" alt='portfolio img img-fluid' className='portfolio-img lazy-load-image'/>
+<LazyLoadImage effect="blur" src={img122} loading="lazy" alt='portfolio img img-fluid' className='portfolio-img lazy-load-image'/>
 </div>
 </div>  
 </div>
